@@ -1,0 +1,24 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.completed {
+    background: #61B058;
+}
+.book-now {
+    background: #A3C8ED;
+}
+.booked {
+    background: #13599E;
+}
+
+.text-completed {
+    color: #61B058;
+}
+.text-book-now {
+    color: #A3C8ED;
+}
+.text-booked {
+    color: #13599E;
+}
+
